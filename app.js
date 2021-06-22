@@ -64,6 +64,7 @@ fs.access(folders, (err) => {
             {path: women, data: null},
         ]);
     }
+
 })
 
 // moveFiles(f18, f20);
